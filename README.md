@@ -1,6 +1,7 @@
 ### Improving React with Hooks and TypeScript skills along with Fernando Herrera.
 
-![React]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png)) ![TypeScript]([https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white](https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png))
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React js logo.">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript logo.">
 
 With this guided project I aim to:
 
