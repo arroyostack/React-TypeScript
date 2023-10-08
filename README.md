@@ -1,7 +1,9 @@
 ### Improving React with Hooks and TypeScript skills along with Fernando Herrera.
 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React js logo." style="width: 10rem">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript logo." style="width: 10rem">
+<section style="display: flex">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React js logo." style="width: 7rem">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript logo." style="width: 7rem">
+</section>
 
 With this guided project I aim to:
 
