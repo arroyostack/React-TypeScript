@@ -1,7 +1,8 @@
-import { Counter } from "./components/Counter";
-import { TimeFather } from "./components/TimeFather";
-import { User } from "./components/User";
-import { useState } from 'react';
+import { Counter } from "./components/useState/Counter";
+import { TimeFather } from "./components/useEffect+useRef/TimeFather";
+import { User } from "./components/useState/User";
+import { UseReducerCounter } from "./components/useReducer/UseReducerCounter";
+
 
 
 
@@ -15,6 +16,8 @@ function App() {
       <h2>useStateEffect = useRef</h2>
       <hr />
       <TimeFather />
+      <hr />
+      <UseReducerCounter />
     </>
   );
 }
